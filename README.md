@@ -1,5 +1,13 @@
 # los-kenzo downloads & changelog
 
+## [Build 29/03/2017](https://www.androidfilehost.com/?fid=457095661767149765)
++ Updated with all los side changes
++ Framework optimizations for smoother scrolling
++ Added option to turn on/off fingerprint vibration
++ New customization category in settings (wip!)
++ Added cpu cores monitor in dev settings
++ Enabled dynamic fsync in stock kernel
+
 ## [Build 26/03/2017](https://www.androidfilehost.com/?fid=673368273298942592)
 + Updated with all los side changes
 + Added network meter in systemui

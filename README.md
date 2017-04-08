@@ -1,5 +1,13 @@
 # los-kenzo downloads & changelog
 
+## [Build 08/04/2017](https://www.androidfilehost.com/?fid=529152257862717923)
++ Updated with all los side changes
++ Includes wifi castscreen, wifi calling fixes
++ Added option to hide arrows in network meter
++ Built using snapdragon llvm toolchain
++ Made default system theme colors like pixel
++ Replaced the volte icon from oneplus
+
 ## [Build 29/03/2017](https://www.androidfilehost.com/?fid=457095661767149765)
 + Updated with all los side changes
 + Framework optimizations for smoother scrolling

@@ -1,5 +1,14 @@
 # los-kenzo downloads & changelog
 
+## [Build 12/04/2017](https://www.androidfilehost.com/?fid=529152257862718742)
++ Updated with all los side changes
++ Brozip removed and old bootanimation is also back
++ Removed gello, no one uses it and it increases rom size
++ Added full oms support, use substratum from play store
++ Compiled with radon kernel for better battery and performance
++ Default radon settings: interactive(balanced), qc off, dt2w off
++ You may flash radon again if you want to change some setting
+
 ## [Build 08/04/2017](https://www.androidfilehost.com/?fid=529152257862717923)
 + Updated with all los side changes
 + Includes wifi castscreen, wifi calling fixes

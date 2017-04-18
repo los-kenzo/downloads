@@ -1,5 +1,12 @@
 # los-kenzo downloads & changelog
 
+## [Build 18/04/2017](https://www.androidfilehost.com/?fid=745425885120725115)
++ Updated with all los side changes, 7.1.2 merged
++ Removed the irritating su # icon permanently
++ Reduced some useless lockscreen animation durations
++ Unlock seems faster now with and without fingerprint
++ Prefer clean flash because it's 7.1.2 now
+
 ## [Build 12/04/2017](https://www.androidfilehost.com/?fid=529152257862718742)
 + Updated with all los side changes
 + Brozip removed and old bootanimation is also back

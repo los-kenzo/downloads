@@ -1,5 +1,12 @@
 # los-kenzo downloads & changelog
 
+## [Build 21/04/2017](https://www.androidfilehost.com/?fid=745425885120726099)
++ Updated with all los side changes
++ Some qs related fixes/improvements
++ Added busybox and adfree hosts
++ Faster autorotate/orientation listener
++ Killed some unneeded logging in framework
+
 ## [Build 18/04/2017](https://www.androidfilehost.com/?fid=745425885120725115)
 + Updated with all los side changes, 7.1.2 merged
 + Removed the irritating su # icon permanently

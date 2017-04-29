@@ -1,5 +1,11 @@
 # los-kenzo downloads & changelog
 
+## [Build 29/04/2017](https://www.androidfilehost.com/?fid=745425885120728166)
++ Updated with all los side changes
++ New features, easy toggle tiles for bluetooth, wifi, data
++ Added small autobrightness toggle in front of brightness slider
++ Updated kernel to Radon V4.5, also updated init.radon.rc
+
 ## [Build 21/04/2017](https://www.androidfilehost.com/?fid=745425885120726099)
 + Updated with all los side changes
 + Some qs related fixes/improvements

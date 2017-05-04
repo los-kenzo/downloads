@@ -1,5 +1,12 @@
 # los-kenzo downloads & changelog
 
+## [Build 04/05/2017](https://www.androidfilehost.com/?fid=745425885120729420)
++ Updated with all los side changes
++ Unified build for both fpc and goodix
++ Vendor and trees updated from los sources
++ Included the boring new jelly browser by los
++ Updated kernel to Radon V4.6, also updated init.radon.rc
+
 ## [Build 29/04/2017](https://www.androidfilehost.com/?fid=745425885120728166)
 + Updated with all los side changes
 + New features, easy toggle tiles for bluetooth, wifi, data

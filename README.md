@@ -1,5 +1,12 @@
 # los-kenzo downloads & changelog
 
+## [Build 10/05/2017](https://www.androidfilehost.com/?fid=457095661767159938)
++ Updated with all los side changes
++ Bring back good old los gallery, it's much faster
++ Option to allow unlock via fingerprint on reboot
++ Option to add screenrecord in powermenu
++ Option to disable screenshot shutter sound
+
 ## [Build 04/05/2017](https://www.androidfilehost.com/?fid=745425885120729420)
 + Updated with all los side changes
 + Unified build for both fpc and goodix

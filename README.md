@@ -1,5 +1,11 @@
 # los-kenzo downloads & changelog
 
+## [Build 25/05/2017](https://www.androidfilehost.com/?fid=889764386195901866)
++ Updated with all los side changes
++ Added toggle for brightness icon and brightness bar
++ Fixed multi network meter getting cut in smaller dpi
++ Updated kernel to Radon V4.8, also updated init.radon.rc
+
 ## [Build 10/05/2017](https://www.androidfilehost.com/?fid=457095661767159938)
 + Updated with all los side changes
 + Bring back good old los gallery, it's much faster
@@ -15,7 +21,7 @@
 + Updated kernel to Radon V4.6, also updated init.radon.rc
 
 ## [Build 29/04/2017](https://www.androidfilehost.com/?fid=745425885120728166)
-+ Updated with all los side changes
++ Updated with all los side changes 
 + New features, easy toggle tiles for bluetooth, wifi, data
 + Added small autobrightness toggle in front of brightness slider
 + Updated kernel to Radon V4.5, also updated init.radon.rc

@@ -1,5 +1,11 @@
 # los-kenzo downloads & changelog
 
+## [Build 03/06/2017](https://www.androidfilehost.com/?fid=889764386195904902)
++ Updated with all los side changes
++ Double tap anywhere on lockscreen to sleep
++ New governor tuning values for small cluster
++ This new tuning will be default in next radon
+
 ## [Build 25/05/2017](https://www.androidfilehost.com/?fid=889764386195901866)
 + Updated with all los side changes
 + Added toggle for brightness icon and brightness bar

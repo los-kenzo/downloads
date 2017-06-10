@@ -1,5 +1,11 @@
 # los-kenzo downloads & changelog
 
+## [Build 10/06/2017](https://www.androidfilehost.com/?fid=889764386195906855)
++ Updated with all los side changes
++ Includes aosp updates r8->r17
++ Added wakelock blocker in customization
++ Radon kernel updated to V4.9
+
 ## [Build 03/06/2017](https://www.androidfilehost.com/?fid=889764386195904902)
 + Updated with all los side changes
 + Double tap anywhere on lockscreen to sleep

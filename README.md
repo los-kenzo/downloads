@@ -1,5 +1,12 @@
 # los-kenzo downloads & changelog
 
+## [Build 16/06/2017](https://www.androidfilehost.com/?fid=673368273298965039)
++ Updated with all los side changes
++ Added customization for qs rows and columns
++ Added smart pulldown options in statusbar
++ Properly reorganized all customization
++ Radon kernel updated to V5.0
+
 ## [Build 10/06/2017](https://www.androidfilehost.com/?fid=889764386195906855)
 + Updated with all los side changes
 + Includes aosp updates r8->r17

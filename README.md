@@ -1,5 +1,13 @@
 # los-kenzo downloads & changelog
 
+## [Build 30/06/2017](https://drive.google.com/file/d/0BycSgadGJZ6KVWdBQUlvVzFXREE/view)
++ Note - afh was unavailable, so uploaded on drive
++ Updated with all los side changes
++ Recents lock not working bug is fixed
++ Auto turn off option for torch available
++ Use release-keys instead of test-keys
++ Radon kernel updated to V5.1
+
 ## [Build 16/06/2017](https://www.androidfilehost.com/?fid=673368273298965039)
 + Updated with all los side changes
 + Added customization for qs rows and columns

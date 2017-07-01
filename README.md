@@ -1,5 +1,9 @@
 # los-kenzo downloads & changelog
 
+## [Build 01/07/2017](https://drive.google.com/file/d/0BycSgadGJZ6KOGVFMjBQdUhhaDg/view)
++ Note - afh was unavailable, so uploaded on drive
++ Updated with june security patch
+
 ## [Build 30/06/2017](https://drive.google.com/file/d/0BycSgadGJZ6KVWdBQUlvVzFXREE/view)
 + Note - afh was unavailable, so uploaded on drive
 + Updated with all los side changes

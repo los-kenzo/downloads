@@ -1,5 +1,14 @@
 # los-kenzo downloads & changelog
 
+## [Build 08/07/2017](https://drive.google.com/file/d/0BycSgadGJZ6KbHo5RzlITm92MUU/view?usp=sharing)
++ Note - afh was unavailable, so uploaded on drive
++ Updated with all los side changes
++ Merged july security patch
++ Aosp r24 has been merged
++ Added some more quicksetting tiles
++ Expanded desktop, reboot, hwkeys toggle
++ Some bugfixes and improvements to existing tiles
+
 ## [Build 01/07/2017](https://drive.google.com/file/d/0BycSgadGJZ6KOGVFMjBQdUhhaDg/view)
 + Note - afh was unavailable, so uploaded on drive
 + Updated with june security patch

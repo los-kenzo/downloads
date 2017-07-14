@@ -1,5 +1,13 @@
 # los-kenzo downloads & changelog
 
+## [Build 14/07/2017](https://drive.google.com/file/d/0BycSgadGJZ6KTzlqQ080VGtFWDA/view?usp=sharing)
++ Note - afh was unavailable, so uploaded on drive
++ Updated with all los side changes
++ Inludes new device tree changes from official los
++ Added sound tile and screenshot tile
++ Fixed lights bug with hw keys toggle tile
++ Kenzo users can use latest firmwre now
+
 ## [Build 08/07/2017](https://drive.google.com/file/d/0BycSgadGJZ6KbHo5RzlITm92MUU/view?usp=sharing)
 + Note - afh was unavailable, so uploaded on drive
 + Updated with all los side changes

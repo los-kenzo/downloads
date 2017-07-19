@@ -1,7 +1,6 @@
 # los-kenzo downloads & changelog
 
-## [Build 14/07/2017](https://drive.google.com/file/d/0BycSgadGJZ6KTzlqQ080VGtFWDA/view?usp=sharing)
-+ Note - afh was unavailable, so uploaded on drive
+## [Build 14/07/2017](https://www.androidfilehost.com/?fid=817550096634787032)
 + Updated with all los side changes
 + Inludes new device tree changes from official los
 + Added sound tile and screenshot tile

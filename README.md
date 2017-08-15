@@ -1,5 +1,13 @@
 # los-kenzo downloads & changelog
 
+## [Build 15/08/2017](https://drive.google.com/file/d/0BycSgadGJZ6KWk5GM2J4MUJid1U/view?usp=sharing)
++ Updated with all los side changes
++ Inludes new device tree changes from official los
++ Updated oms commits from github.com/lineageoms
++ Remove modem assertion check
++ Up to date security patches
++ Updated to radon 5.4
+
 ## [Build 14/07/2017](https://www.androidfilehost.com/?fid=817550096634787032)
 + Updated with all los side changes
 + Inludes new device tree changes from official los

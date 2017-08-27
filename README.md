@@ -1,5 +1,16 @@
 # los-kenzo downloads & changelog
 
+## [Build 27/08/2017](https://www.androidfilehost.com/?fid=745425885120758069)
++ Updated with all los side changes
++ Disabled media safe headset volume warning
++ Added signature spoofing permission
++ Removed modem assertion check properly this time
++ Removed sqlite tweak which was making poweramp fc
++ Made response time of autobrightness sensor 2x faster
++ Shutdown when battery temp is > 55 degree celcius
++ Changed dim screen duration to 10 sec instead of 7
++ Adjusted some default settings like wifi enabled on first boot
+
 ## [Build 15/08/2017](https://drive.google.com/file/d/0BycSgadGJZ6KWk5GM2J4MUJid1U/view?usp=sharing)
 + Updated with all los side changes
 + Inludes new device tree changes from official los

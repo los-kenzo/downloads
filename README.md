@@ -1,5 +1,11 @@
 # los-kenzo downloads & changelog
 
+## [Build 09/09/2017](https://www.androidfilehost.com/?fid=673368273298984694)
++ Updated with all los side changes
++ Removed some scrolling patches which might be causing problems
++ Merged sultanxda's patch for faster fingerprint
++ Updated to radon 5.5 and ramdisk updates
+
 ## [Build 27/08/2017](https://www.androidfilehost.com/?fid=745425885120758069)
 + Updated with all los side changes
 + Disabled media safe headset volume warning

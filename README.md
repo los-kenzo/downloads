@@ -1,5 +1,10 @@
 # los-kenzo downloads & changelog
 
+## [Build 22/09/2017](https://www.androidfilehost.com/?fid=745425885120764556)
++ Updated with all los side changes
++ September security updates
++ Updated to radon 5.6
+
 ## [Build 09/09/2017](https://www.androidfilehost.com/?fid=673368273298984694)
 + Updated with all los side changes
 + Removed some scrolling patches which might be causing problems

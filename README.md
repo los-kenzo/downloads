@@ -1,5 +1,10 @@
 # los-kenzo downloads & changelog
 
+## [Build 29/09/2017](https://www.androidfilehost.com/?fid=673791459329049654)
++ Updated with all los side changes
++ Fixed setup wizard fc on clean flash
++ Fixed hdr often not working with back camera
+
 ## [Build 22/09/2017](https://www.androidfilehost.com/?fid=745425885120764556)
 + Updated with all los side changes
 + September security updates

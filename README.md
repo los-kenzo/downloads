@@ -1,5 +1,10 @@
 # los-kenzo downloads & changelog
 
+## [Build 17/10/2017](https://www.androidfilehost.com/?fid=889964283620759150)
++ Updated with all los side changes
++ October security patches merged
++ Updated to radon 5.7
+
 ## [Build 29/09/2017](https://www.androidfilehost.com/?fid=673791459329049654)
 + Updated with all los side changes
 + Fixed setup wizard fc on clean flash

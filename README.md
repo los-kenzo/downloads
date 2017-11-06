@@ -1,5 +1,10 @@
 # los-kenzo downloads & changelog
 
+## [Build 06/11/2017](https://www.androidfilehost.com/?fid=745849072291686672)
++ Updated with all los side changes
++ Check radon thread for kernel side changes
++ Updated to radon 6.0
+
 ## [Build 17/10/2017](https://www.androidfilehost.com/?fid=889964283620759150)
 + Updated with all los side changes
 + October security patches merged

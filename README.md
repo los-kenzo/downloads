@@ -1,5 +1,10 @@
 # los-kenzo downloads & changelog
 
+## [Build 26/11/2017](https://www.androidfilehost.com/?fid=817906626617949173)
++ Updated with all los side changes
++ November security patch update
++ Livedisplay qs tile
+
 ## [Build 06/11/2017](https://www.androidfilehost.com/?fid=745849072291686672)
 + Updated with all los side changes
 + Check radon thread for kernel side changes

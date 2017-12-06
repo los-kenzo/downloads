@@ -1,5 +1,9 @@
 # los-kenzo downloads & changelog
 
+## [Build 06/12/2017](https://www.androidfilehost.com/?fid=817906626617951004)
++ Updated with all los side changes
++ Fix missing tiles
+
 ## [Build 26/11/2017](https://www.androidfilehost.com/?fid=817906626617949173)
 + Updated with all los side changes
 + November security patch update

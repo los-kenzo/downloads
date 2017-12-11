@@ -1,5 +1,11 @@
 # los-kenzo downloads & changelog
 
+## [Build 11/12/2017](https://www.androidfilehost.com/?fid=817906626617952027)
++ Updated with all los side changes
++ December security patch
++ AOSP 7.1.2_r36 merged
++ Radon updated to 6.1
+
 ## [Build 06/12/2017](https://www.androidfilehost.com/?fid=817906626617951004)
 + Updated with all los side changes
 + Fix missing tiles

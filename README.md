@@ -1,5 +1,11 @@
 # los-kenzo downloads & changelog
 
+## [Build 25/12/2017](https://www.androidfilehost.com/?fid=745849072291696739)
++ Updated with all los side changes
++ Disable fluence on voicerec
++ Enable 24 bit offload
++ Radon updated to 6.2
+
 ## [Build 11/12/2017](https://www.androidfilehost.com/?fid=817906626617952027)
 + Updated with all los side changes
 + December security patch

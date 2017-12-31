@@ -1,5 +1,11 @@
 # los-kenzo downloads & changelog
 
+## [Build 31/12/2017](https://www.androidfilehost.com/?fid=889964283620775399)
++ Updated with all los side changes
++ Use 100hz tick rate for better compatibility and battery
++ Make screenshot shutter sound off by default
++ Fix lag when opening anything from settings left panel
+
 ## [Build 25/12/2017](https://www.androidfilehost.com/?fid=745849072291696739)
 + Updated with all los side changes
 + Disable fluence on voicerec

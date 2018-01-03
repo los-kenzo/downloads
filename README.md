@@ -1,5 +1,12 @@
 # los-kenzo downloads & changelog
 
+## [Build 03/01/2018](https://www.androidfilehost.com/?fid=745849072291698448)
++ Updated with all los side changes
++ Fix qcrilmsgtunnel crash due to unprotected broadcast
++ Increase wifi supplicant scan interval
++ Update qcom audio, media, display hals
++ Minor memory leak fixes
+
 ## [Build 31/12/2017](https://www.androidfilehost.com/?fid=889964283620775399)
 + Updated with all los side changes
 + Use 100hz tick rate for better compatibility and battery

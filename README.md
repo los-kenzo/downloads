@@ -1,5 +1,13 @@
 # los-kenzo downloads & changelog
 
+## [Build 20/01/2018](https://www.androidfilehost.com/?fid=673956719939813919)
++ Updated with all los side changes
++ January security patch
++ Updated some default settings
++ Custom hwui configs by movzx
++ Increase wifi supplicant scan interval
++ Update power profile according to radon
+
 ## [Build 03/01/2018](https://www.androidfilehost.com/?fid=745849072291698448)
 + Updated with all los side changes
 + Fix qcrilmsgtunnel crash due to unprotected broadcast

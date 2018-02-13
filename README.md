@@ -1,5 +1,10 @@
 # los-kenzo downloads & changelog
 
+## [Build 13/02/2018](https://drive.google.com/file/d/1WDGjsOkyeIgDZSehd11_NwfrPAMPaoYG/view?usp=sharing)
++ Updated with all los side changes
++ February security patch
++ Radon updated to 6.3
+
 ## [Build 20/01/2018](https://www.androidfilehost.com/?fid=673956719939813919)
 + Updated with all los side changes
 + January security patch
